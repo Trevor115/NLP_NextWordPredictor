@@ -4,8 +4,8 @@ A small Python program that learns trigram probabilities from text and uses them
 # Features
 - Preprocesses text (lowercasing, punctuation removal, tokenization)
 - Builds trigram counts and probabilities
-- Predicts the top next‑word candidates for any two‑word context
-- Generates text by repeatedly choosing the highest‑probability next word
+- Predicts the top next word candidates for any two word context
+- Generates text by repeatedly choosing the highest probability next word
 - Includes helper functions for printing counts and probabilities
 
 # How It Works
